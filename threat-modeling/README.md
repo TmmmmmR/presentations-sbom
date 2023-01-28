@@ -11,10 +11,10 @@ so as well as all of the breakout group exercises.
 
 ## Contents
 
-kwwall-stride-tm-part1.odp - The original slide deck, created with LibreOffice 7.4 Impress
+**kwwall-stride-tm-part1.odp** - The original slide deck, created with LibreOffice 7.4 Impress
 <br/>
-kwwall-stride-tm-part1.pdf - The above file, converted to Adobe Portable Document Format.
+**kwwall-stride-tm-part1.pdf** - The above file, converted to Adobe Portable Document Format.
 <br/>
-kwwall-stride-tm-part1.pptx - The original .odp file, converted to Microsoft PowerPoint format.
+**kwwall-stride-tm-part1.pptx** - The original .odp file, converted to Microsoft PowerPoint format.
 <br/>
-kwwall-stride-tm-part1.mp4 - A video of the first presentation (held via Zoom) with a small audience of friends and former colleagues who promised not to throw things or interrupt me with farting noises.
+**kwwall-stride-tm-part1.mp4** - A video of the first presentation (held via Zoom) with a small audience of friends and former colleagues who promised not to throw things or interrupt me with farting noises.
