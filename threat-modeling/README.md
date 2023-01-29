@@ -21,7 +21,7 @@ shout-out to @segment-jsingh for that.
   
 ## Important Note
 If you try to clone (or probably fork) this repository, it may fail to download the
-mp4 file as the repository is using Git LFS for storing it. If the monthly downloads exceeds about 4 per
+mp4 file as the repository is using Git LFS for storing it. If the monthly downloads exceeds about 5 per
 month, the bandwidth for the free version will be exceeded. So don't be the reason why others can't have
 nice things. If it becomes a problem, I shall simply remove it. If you want to download it, use the link
 provided below in the 'Contents' section! Thanks for your cooperation.
@@ -35,5 +35,14 @@ provided below in the 'Contents' section! Thanks for your cooperation.
   me with farting noises _during_ the presentation. The video lasts 1 hour and 48 minutes. Fortunately, for
   all of you who decide to watch it, there is no video of my face so you shouldn't have to worry too much 
   about ensuing nightmares. The link to the file provided in this **README.md** file is a link to my personal
-  Google Drive. It should allow you to directly watch the video from there. (I tried to upload it to
-  YouTube and it told me it was too large; go figure.)
+  Google Drive. (I tried to upload it to YouTube and it told me it was too large; go figure.)
+  In theory, it should allow you to directly watch the video from there, but it practice, the
+  video seems to indefinitely hang. After some investigation, this appears to be
+  related to this 'tip' found in the "[Store and play video in Google Drive](https://support.google.com/drive/answer/2423694)"
+  FAQ:
+    <pre>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Tip</b>: To play videos in Drive, you need to turn on third-party cookies.
+    </pre>
+  I'll leave it to you and your own privacy concerns of whether or note you want
+  to do that, but personally, I recommend just downloading it and then watching it locally. YMMV.
+
