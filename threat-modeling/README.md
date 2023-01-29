@@ -28,7 +28,7 @@ provided below in the 'Contents' section! Thanks for your cooperation.
 
 ## Contents
 - **kwwall-stride-tm-part1.odp** - The original slide deck, created with LibreOffice 7.4 Impress
-- **kwwall-stride-tm-part1.pdf** - The above file, converted to Adobe Portable Document Format.
+- **[kwwall-stride-tm-part1.pdf](kwwall-stride-tm-part1.pdf)** - The above file, converted to Adobe Portable Document Format.
 - **kwwall-stride-tm-part1.pptx** - The original .odp file, converted to Microsoft PowerPoint format.
 - **[kwwall-stride-tm-part1.mp4](https://drive.google.com/file/d/1Ian_EgdUfAS3eFxZEfjLR5ysmtToidTR/view?usp=sharing)** - A video of the first presentation (held via Zoom) with
   a small audience of friends / former colleagues who promised to provide honest feedback and not interrupt
